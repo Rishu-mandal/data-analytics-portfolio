@@ -10,6 +10,24 @@ A compact portfolio of hands-on analytics, visualization, and business problem-s
 - Insight generation and executive communication
 - Structured business problem solving
 
+## Quick navigation
+- [Social Buzz — Content Popularity Analysis](projects/social-buzz/)
+- [Healthy Co. - Patient Experience and Wait-time Analysis](projects/healthy-co/)
+- [Deloitte — Manufacturing Telemetry Visualization](projects/deloitte/)
+- [BCG — Strategy Consulting Exercises](projects/bcg/)
+- [Visualizations](visualizations/)
+- [Certifications](certificates/)
+- [Resume](resume/Rishu_Mandal_Resume.pdf)
+
+## Projects at a glance
+
+| Project | Focus | Tools |
+|---|---|---|
+| [Social Buzz](projects/social-buzz/) | Content popularity & engagement analysis | Excel, data cleaning, aggregation |
+| [Healthy Co](projects/healthy-co/) | Patient wait time & operational analysis | Excel, pivot analysis |
+| [Deloitte](projects/deloitte/) | Manufacturing telemetry visualization | Tableau |
+| [BCG](projects/bcg/) | Strategy & structured problem solving | Business analysis, brainstorming |
+
 ## Featured projects
 
 ### 1. Social Buzz — Content Popularity Analysis
