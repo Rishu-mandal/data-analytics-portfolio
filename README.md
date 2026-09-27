@@ -62,15 +62,18 @@ Completed BCG exercises on challenging assumptions, reframing business questions
 
 ### Accenture — Social Buzz
 ![Social Buzz analysis](visualizations/Social_Buzz_Top5_Actual_Slide.jpg)
+![Social Buzz analysis](visualizations/Social_Buzz_Top5_Actual_Data_Visualization.jpg)
 
 ### KPMG — Healthy Co
 ![Healthy Co dashboard](visualizations/Healthy_Co_Actual_Dashboard_Slide.jpg)
+![Healthy Co dashboard](visualizations/Healthy_Co_Doctor_Wait_Actual_Data_Visualization.jpg)
+![Healthy Co dashboard](visualizations/Healthy_Co_Doctor_Wait_Cost_Actual_Data_Visualization.jpg)
 
 ### Deloitte — Manufacturing Telemetry
 ![Deloitte Tableau dashboard](visualizations/Deloitte_Tableau_Actual_Screenshot.jpg)
 
 ### BCG — Strategy Consulting
-![BCG strategy analysis](visualizations/BCG_Brainstorming_Actual_Slide.jpg
+![BCG strategy analysis](visualizations/BCG_Brainstorming_Actual_Slide.jpg)
 
 ## Certifications included
 - Accenture — Data Analytics and Visualization Job Simulation (Forage), May 2025
