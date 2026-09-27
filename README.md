@@ -44,13 +44,14 @@ Completed BCG exercises on challenging assumptions, reframing business questions
 - Accenture — Data Analytics and Visualization Job Simulation (Forage), May 2025
 - Deloitte — Data Analytics Job Simulation (Forage), April 2025
 - BCG — Introduction to Strategy Consulting Job Simulation (Forage), April 2025
+- KPMG - Career Catalyst: Advisory Job Simulation (Forage), May 2025
 
 ## Resume
 See `resume/Rishu_Mandal_Resume.pdf`.
 
 ## Portfolio structure
 ```text
-Analytics_Portfolio_Rishu_Mandal/
+data-analytics-portfolio/
 ├── README.md
 ├── resume/
 ├── projects/
@@ -63,7 +64,3 @@ Analytics_Portfolio_Rishu_Mandal/
 ```
 
 > The visualizations in this folder are based on the supplied project datasets/workbooks or are direct screenshots of the completed project work. No placeholder charts are used.
-
-
-### Certificate
-- KPMG Career Catalyst: Advisory Job Simulation — direct Forage certificate link is included in `certificates/KPMG_Career_Catalyst_Advisory_Job_Simulation_LINK.md`.
