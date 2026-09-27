@@ -62,12 +62,12 @@ Completed BCG exercises on challenging assumptions, reframing business questions
 
 ### Accenture — Social Buzz
 ![Social Buzz analysis](visualizations/Social_Buzz_Top5_Actual_Slide.jpg)
-![Social Buzz analysis](visualizations/Social_Buzz_Top5_Actual_Data_Visualization.jpg)
+![Social Buzz dashboard](visualizations/Social_Buzz_Top5_Actual_Data_Visualization.png)
 
 ### KPMG — Healthy Co
 ![Healthy Co dashboard](visualizations/Healthy_Co_Actual_Dashboard_Slide.jpg)
-![Healthy Co dashboard](visualizations/Healthy_Co_Doctor_Wait_Actual_Data_Visualization.jpg)
-![Healthy Co dashboard](visualizations/Healthy_Co_Doctor_Wait_Cost_Actual_Data_Visualization.jpg)
+![Healthy Co dashboard](visualizations/Healthy_Co_Doctor_Wait_Actual_Data_Visualization.png)
+![Healthy Co dashboard](visualizations/Healthy_Co_Doctor_Wait_Cost_Actual_Data_Visualization.png)
 
 ### Deloitte — Manufacturing Telemetry
 ![Deloitte Tableau dashboard](visualizations/Deloitte_Tableau_Actual_Screenshot.jpg)
