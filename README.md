@@ -11,8 +11,8 @@ A compact portfolio of hands-on analytics, visualization, and business problem-s
 - Structured business problem solving
 
 ## Quick navigation
-- [Social Buzz — Content Popularity Analysis](projects/social-buzz/)
-- [Healthy Co. - Patient Experience and Wait-time Analysis](projects/healthy-co/)
+- [Accenture - Social Buzz: Content Popularity Analysis](projects/social-buzz/)
+- [KPMG - Healthy Co.: Patient Experience and Wait-time Analysis](projects/healthy-co/)
 - [Deloitte — Manufacturing Telemetry Visualization](projects/deloitte/)
 - [BCG — Strategy Consulting Exercises](projects/bcg/)
 - [Visualizations](visualizations/)
@@ -23,21 +23,21 @@ A compact portfolio of hands-on analytics, visualization, and business problem-s
 
 | Project | Focus | Tools |
 |---|---|---|
-| [Social Buzz](projects/social-buzz/) | Content popularity & engagement analysis | Excel, data cleaning, aggregation |
-| [Healthy Co](projects/healthy-co/) | Patient wait time & operational analysis | Excel, pivot analysis |
+| [Accenture](projects/accenture/) | Content popularity & engagement analysis | Excel, data cleaning, aggregation |
+| [KPMG](projects/kpmg/) | Patient wait time & operational analysis | Excel, pivot analysis |
 | [Deloitte](projects/deloitte/) | Manufacturing telemetry visualization | Tableau |
 | [BCG](projects/bcg/) | Strategy & structured problem solving | Business analysis, brainstorming |
 
 ## Featured projects
 
-### 1. Social Buzz — Content Popularity Analysis
+### 1. Accenture - Social Buzz: Content Popularity Analysis
 **Tools:** Excel, data cleaning, aggregation, PowerPoint
 
 Analyzed reaction-level social media data to identify the five content categories with the largest aggregate popularity. The cleaned dataset contains 24,598 data rows, and the analysis identified **healthy eating (71,168)** as the highest-scoring category, followed by technology (69,339), food (68,738), science (57,783), and animals (49,619).
 
 **Included:** cleaned workbook, presentation, actual project slide screenshot, and reconstructed data visualization.
 
-### 2. Healthy Co — Patient Experience & Wait-Time Analysis
+### 2. KPMG - Healthy Co.: Patient Experience & Wait-Time Analysis
 **Tools:** Excel, pivot analysis, dashboard presentation, structured research
 
 Analyzed patient-flow data to examine arrival-time effects, nurse processing time, diagnosis-group visit duration, doctor waiting time, and wait-related cost. The model identifies **Dr. Balla at 29.6 minutes average doctor wait**, versus roughly 21–22 minutes for the other listed doctors, and **$1,481.64 average doctor wait cost per visit**.
